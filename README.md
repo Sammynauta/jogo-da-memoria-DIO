@@ -10,8 +10,8 @@ Projeto feito para fins de estudo. Digital Innovation ONE.
 
 ### RESOURCES
 
-= HTML, CSS AND JAVASCRIPT.
-= IMAGES: JPG, PNG.
+- HTML, CSS AND JAVASCRIPT.
+- IMAGES: JPG, PNG.
 
 ### Start Dev Environment for VSCode
 
