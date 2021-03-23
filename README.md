@@ -3,7 +3,7 @@ Nesse projeto, o desafio será criar um jogo da memória utilizando apenas HTML,
 Projeto feito para fins de estudo. Digital Innovation ONE.
 
 ## slide
-<img src="jogo-da-memoria.png">
+<img src="./img/jogo-da-memoria.png">
 
 ### O DESAFIO
 - O objetivo é trabalhar com efeitos 3D no CSS e lógica de programação utilizando condicionais, Immediately Invoked Function Expression e manipulação de Array em um projeto super divertido.
